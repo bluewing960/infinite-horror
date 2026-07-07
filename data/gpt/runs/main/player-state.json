@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "1.0",
+  "player": {
+    "name": "蒼翼",
+    "alias": "Bluewing",
+    "species": "人類",
+    "gender": "男性",
+    "age": 20,
+    "heightCm": 175,
+    "appearance": "黑髮、藍眼、身形勻稱；右眼封印下藏有神眼。",
+    "personality": ["散漫", "冷靜", "理性", "學習力極高"],
+    "goal": "強到足以做到任何事。"
+  },
+  "resources": {
+    "hp": {"current": 100, "max": 100},
+    "mp": {"current": 180, "max": 180},
+    "san": {"current": 100, "max": 100},
+    "infiniteCoins": 0,
+    "redName": 0,
+    "relationshipPressure": 0
+  },
+  "coreStats": {
+    "strength": 15,
+    "agility": 17,
+    "constitution": 16,
+    "intellect": 20,
+    "perception": 19,
+    "will": 21
+  },
+  "carriedSkills": [
+    {
+      "name": "凝聚",
+      "type": "通用魔力操作",
+      "description": "將魔力凝成可操控的球體與基礎構造。"
+    },
+    {
+      "name": "爆裂",
+      "type": "通用魔力操作",
+      "description": "引爆魔力球，造成小範圍衝擊與破壞。"
+    },
+    {
+      "name": "崩",
+      "type": "通用魔力操作",
+      "description": "沿表面擴散脈衝，可作為移動踏點、震盪或卸力。"
+    },
+    {
+      "name": "散",
+      "type": "通用魔力操作",
+      "description": "將多個魔力球分散部署至場域。"
+    },
+    {
+      "name": "穿",
+      "type": "通用魔力操作",
+      "description": "從魔力球前端射出壓縮穿透束。"
+    },
+    {
+      "name": "滅",
+      "type": "通用魔力操作",
+      "description": "近距離極度壓縮後注入目標內部爆發；高消耗且需貼近。"
+    },
+    {
+      "name": "雷火",
+      "type": "複合元素技能",
+      "description": "具毀滅、吞噬、擴張三種傾向的活性電漿；可操控雷電、火焰與局部能量同化。"
+    },
+    {
+      "name": "神眼（封印中）",
+      "type": "感知／演算技能",
+      "description": "解封後提供獨立演算、動態視覺、直覺預判與對精神干涉／即死／直接時間停止的自動抵抗；持續約一小時後需半日恢復，並有理智下降與幻覺風險。"
+    }
+  ],
+  "storedSkills": [
+    {
+      "name": "紅塵",
+      "description": "無邊界領域化身，可隔絕跨維通道並取得絕對領域優勢；本次未攜帶，不計入當前戰力。"
+    },
+    {
+      "name": "神經介面",
+      "description": "可直接連結裝置、AI 與外部運算資源；本次未攜帶。"
+    }
+  ],
+  "equipment": [
+    {
+      "name": "銀弦",
+      "type": "側劍",
+      "description": "承載斬切概念；黑色劍鞘負責封印與隱匿。拔劍時可形成水銀覆層，對具不死性目標具有額外效果。",
+      "equipped": true
+    },
+    {
+      "name": "基礎行動服",
+      "type": "防護衣",
+      "description": "提供微弱防護與常規口袋空間。",
+      "equipped": true
+    }
+  ],
+  "storage": [
+    "岡格尼爾（未攜帶）",
+    "FLAI 與機甲支援資產（未攜帶）"
+  ],
+  "items": [],
+  "achievements": [],
+  "conditions": [],
+  "lastUpdated": "2026-07-07T19:27:22+08:00"
+}
